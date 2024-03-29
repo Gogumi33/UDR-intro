@@ -1,3 +1,4 @@
+in '멋쟁이사자처럼'
 <img width="960" alt="intro" src="https://github.com/Gogumi33/UDR-intro/assets/135415213/a0858aca-d6f2-4f98-bc0e-fcf29b5d395b">
 
 
